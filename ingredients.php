@@ -1,5 +1,10 @@
-<?php include 'inc/header.inc.php'; ?>
-    <h1>Our mission</h1>
+<?php 
+$pageTitle = "Ingredients";
+$headerImg = "images/pexels-julia-volk-5273044.jpg";
+include 'inc/header.inc.php'; 
+
+?>
+    <h1> Our Ingredients </h1>
     <p>
       At Culinary Cove, our core mission is to offer a sanctuary for 
       those who seek exceptional flavors and culinary experiences. 

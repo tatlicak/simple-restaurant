@@ -1,4 +1,9 @@
-<?php include 'inc/header.inc.php'; ?>
+<?php 
+$pageTitle = "Our mission";
+$headerImg = "images/pexels-engin-akyurt-1435904.jpg";
+include 'inc/header.inc.php'; 
+
+?>
 
     <h1>Our mission</h1>
     <p>
@@ -27,5 +32,5 @@
       just a dish; it's a journey into a world of unique and exciting
       flavors.
     </p>
-    
+
 <?php include 'inc/footer.inc.php' ?>
